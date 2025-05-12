@@ -1,2 +1,2 @@
-# CyberSecPort
-This repository contains cybersecurity projects and activities developed as part of the Google Cybersecurity Certificate. It showcases hands-on skills in network security, threat analysis, risk management, and security tools.
+# Professional Statement
+I am a software development engineer with a strong foundation in design, programming, and secure coding practices. My technical skills include proficiency in Python, Linux, and SQL, and I am currently expanding my knowledge of SIEM tools. Passionate about solving complex problems with precision, I am committed to continuous learning and staying current with cybersecurity trends. My values of innovation and collaboration guide my work, and I aim to contribute to the security goals of organizations by delivering secure, efficient, and user-focused solutions.
